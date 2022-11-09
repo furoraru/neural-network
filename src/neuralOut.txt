@@ -1,0 +1,152 @@
+
+Pass1: Inputs : 127 65 65 65 65 65 127 
+Outputs: 0.922975 0.781768 0.924012 
+Targets: 1 0 0 
+Network recent average error: -0.876252
+
+Pass2: Inputs : 0 62 34 34 34 62 0 
+Outputs: 0.923111 0.768639 0.921208 
+Targets: 1 0 0 
+Network recent average error: -0.870986
+
+Pass3: Inputs : 0 0 28 20 28 0 0 
+Outputs: 0.923377 0.740501 0.915242 
+Targets: 1 0 0 
+Network recent average error: -0.859707
+
+Pass4: Inputs : 120 72 72 120 0 0 0 
+Outputs: 0.923768 0.693747 0.905326 
+Targets: 1 0 0 
+Network recent average error: -0.840947
+
+Pass5: Inputs : 0 0 0 15 9 9 15 
+Outputs: 0.924275 0.624055 0.890065 
+Targets: 1 0 0 
+Network recent average error: -0.812798
+
+Pass6: Inputs : 0 0 124 68 68 68 124 
+Outputs: 0.924887 0.529615 0.867172 
+Targets: 1 0 0 
+Network recent average error: -0.773891
+
+Pass7: Inputs : 7 5 7 0 0 0 0 
+Outputs: 0.925591 0.416664 0.83301 
+Targets: 1 0 0 
+Network recent average error: -0.725088
+
+Pass8: Inputs : 60 36 36 60 0 0 0 
+Outputs: 0.926394 0.301644 0.782201 
+Targets: 1 0 0 
+Network recent average error: -0.67008
+
+Pass9: Inputs : 0 0 0 7 5 7 0 
+Outputs: 0.927263 0.202909 0.707666 
+Targets: 1 0 0 
+Network recent average error: -0.612613
+
+Pass10: Inputs : 0 112 80 112 0 0 0 
+Outputs: 0.928195 0.129556 0.603603 
+Targets: 1 0 0 
+Network recent average error: -0.553785
+
+Pass11: Inputs : 127 34 20 8 0 0 0 
+Outputs: 0.92918 0.0802652 0.473123 
+Targets: 0 1 0 
+Network recent average error: -0.49419
+
+Pass12: Inputs : 127 66 68 72 80 96 64 
+Outputs: 0.928053 0.0508096 0.335376 
+Targets: 0 1 0 
+Network recent average error: -0.43808
+
+Pass13: Inputs : 0 0 8 20 34 127 0 
+Outputs: 0.924787 0.0328619 0.21678 
+Targets: 0 1 0 
+Network recent average error: -0.391477
+
+Pass14: Inputs : 4 12 20 36 20 12 4 
+Outputs: 0.919134 0.0216792 0.131337 
+Targets: 0 1 0 
+Network recent average error: -0.357383
+
+Pass15: Inputs : 126 68 80 64 0 0 0 
+Outputs: 0.910583 0.0145653 0.0768141 
+Targets: 0 1 0 
+Network recent average error: -0.333987
+
+Pass16: Inputs : 0 0 1 3 5 9 31 
+Outputs: 0.898292 0.00995528 0.0443223 
+Targets: 0 1 0 
+Network recent average error: -0.317523
+
+Pass17: Inputs : 0 0 64 96 80 120 0 
+Outputs: 0.880956 0.00691807 0.0255769 
+Targets: 0 1 0 
+Network recent average error: -0.304484
+
+Pass18: Inputs : 64 80 72 68 72 80 64 
+Outputs: 0.856614 0.00488664 0.0148809 
+Targets: 0 1 0 
+Network recent average error: -0.292127
+
+Pass19: Inputs : 0 124 40 16 0 0 0 
+Outputs: 0.822425 0.00350853 0.00877152 
+Targets: 0 1 0 
+Network recent average error: -0.278235
+
+Pass20: Inputs : 0 0 127 34 20 8 0 
+Outputs: 0.77453 0.00256064 0.00525377 
+Targets: 0 1 0 
+Network recent average error: -0.260782
+
+Pass21: Inputs : 0 28 34 34 34 28 0 
+Outputs: 0.708452 0.00189941 0.00320317 
+Targets: 0 0 1 
+Network recent average error: -0.237851
+
+Pass22: Inputs : 0 12 18 12 0 0 0 
+Outputs: 0.620849 0.00143009 0.00199192 
+Targets: 0 0 1 
+Network recent average error: -0.20809
+
+Pass23: Inputs : 0 0 28 34 34 28 0 
+Outputs: 0.513318 0.00109162 0.00126228 
+Targets: 0 0 1 
+Network recent average error: -0.171891
+
+Pass24: Inputs : 0 0 0 0 6 9 6 
+Outputs: 0.395999 0.0008434 0.000813974 
+Targets: 0 0 1 
+Network recent average error: -0.132552
+
+Pass25: Inputs : 56 68 68 68 56 0 0 
+Outputs: 0.285172 0.000658163 0.000533028 
+Targets: 0 0 1 
+Network recent average error: -0.0954544
+
+Pass26: Inputs : 0 48 72 72 48 0 0 
+Outputs: 0.194212 0.000518496 0.000354206 
+Targets: 0 0 1 
+Network recent average error: -0.0650284
+
+Pass27: Inputs : 0 0 56 68 68 68 56 
+Outputs: 0.127446 0.000412168 0.000238694 
+Targets: 0 0 1 
+Network recent average error: -0.0426988
+
+Pass28: Inputs : 14 17 14 0 0 0 0 
+Outputs: 0.08197 0.000330586 0.000163074 
+Targets: 0 0 1 
+Network recent average error: -0.0274879
+
+Pass29: Inputs : 0 56 68 56 0 0 0 
+Outputs: 0.0523177 0.000267489 0.000112914 
+Targets: 0 0 1 
+Network recent average error: -0.017566
+
+Pass30: Inputs : 0 0 60 66 66 60 0 
+Outputs: 0.0334011 0.000218279 7.92052e-05 
+Targets: 0 0 1 
+Network recent average error: -0.0112329
+
+Done
